@@ -48,6 +48,7 @@ This project is under MIT license. Check file [LICENSE](LICENSE) for more detail
 ---
 
 <h4 align="center">
-  Developed with ❤️ by <b>Douglas Rosa</b>
+  Developed with ❤️ by <b>AnGaisDev</b>
 </h4>
+
 
